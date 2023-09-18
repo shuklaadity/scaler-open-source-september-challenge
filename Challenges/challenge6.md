@@ -10,9 +10,9 @@ Task
 In the markdown file that was created in Challenge 5, edit the details as follows: 
 ```
 ---
-name: your_name
-github_user_name: YOUR-GITHUB-USERNAME
-url_of_github_issue: Link_of_the_github_issue_created_in_first_challenge 
+name: aditya shukla
+github_user_name: shuklaadity
+url_of_github_issue: https://github.com/scaleracademy/scaler-open-source-september-challenge/issues
 ---
 ```
 Note: The url_of_github_issue should be the link of the github issue that you created in Challenge 1.
@@ -21,3 +21,4 @@ Note: The url_of_github_issue should be the link of the github issue that you cr
 4. Check if the commit reflects in the Pull request you created in Challenge 5 in the main challenge repository.
 
 ( If it does not, then sync your forked repository with the main repository and push the changes to your forked repository.)
+
